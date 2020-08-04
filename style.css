@@ -48,3 +48,13 @@
     background-color: cadetblue;
     cursor: pointer;
 }
+
+.score {
+    display: flex;
+    flex-direction: row;
+    width: 90px;
+    height: auto;
+    padding: 15px;
+    background-color: cadetblue;
+    cursor: pointer;
+}
