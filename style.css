@@ -13,3 +13,23 @@
     position: absolute;
     border: 2px solid cadetblue;
 }
+
+.card-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    width: 70%;
+    height: 80%;
+    left: 15%;
+    top: 10%;
+    background-color: pink;
+    position: absolute;
+    margin: 0 auto;
+}
+
+.card {
+    width: 250px;
+    height: 425px;
+    margin-top: 10%;
+    background-color: yellow; 
+}
