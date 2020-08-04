@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.game-board {
+    width: 70%;
+    height: 80%;
+    left: 15%;
+    top: 10%;
+    background-color: aqua;
+    position: absolute;
+    border: 2px solid cadetblue;
+}
